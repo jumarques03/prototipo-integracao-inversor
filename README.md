@@ -39,6 +39,6 @@ Os dados exibidos no protótipo são simulados, mas calculados com base em equa�
 -  (1) **ESP32** com comunicação serial
 -  (2)**LEDs**
 -  (3) **Jumpers** macho x macho
--  (2) **Resistores*” de 202V
+-  (2) **Resistores** de 202V
 -  (1) **Protoboard**
 -  Plataforma **Arduino IDE**
