@@ -13,13 +13,13 @@ Este projeto apresenta um protótipo funcional simulado, que representa uma das 
 Os dados exibidos no protótipo são simulados, mas calculados com base em equações reais de energia. As equações utilizadas foram: 
 
 - **Potência Atual:**  
-  `P = V × I 
+  `P = V × I`
 
 - **Temperatura Operacional:**  
-  `T = T_amb + [(G × (NOCT - 20)) / 800] × 1000 
+  `T = T_amb + [(G × (NOCT - 20)) / 800] × 1000`
 
 - **Potencial de Geração Mensal:**  
-  `E = P_inst × H_média × 30 × η 
+  `E = P_inst × H_média × 30 × η `
 
 - **Status Geral do Inversor:**  
   Se `P ≥ 80% de P_inst` e `T < 60°C` → *Operando em condições ideais*  
